@@ -1,0 +1,5 @@
+{
+  "name": "MediSense AI",
+  "description": "An AI-powered preliminary medical diagnostic assistant that analyzes symptoms to suggest possible conditions and provide decision support.",
+  "requestFramePermissions": ["microphone"]
+}
